@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Thyme & Essence",
+  "description": "A sophisticated digital herb garden and culinary assistant that uses Gemini AI to suggest pairings, recipes, and medicinal insights for various herbs.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
